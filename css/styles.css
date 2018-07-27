@@ -1,0 +1,11 @@
+@media screen and (max-width: 500px){
+.title{
+	font-size: 20px;
+}	
+}
+.banner{
+	height:20%;
+}
+.justificar{
+	text-align: justify;
+}
